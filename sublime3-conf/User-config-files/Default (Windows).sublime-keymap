@@ -1,0 +1,9 @@
+[
+		{ "keys": ["ctrl+alt+b"], "command": "focus_side_bar" },
+		{ "keys": ["alt+b"], "command": "toggle_side_bar" },
+  		{ "keys": ["alt+d"], "command": "plain_tasks_complete","context": [{ "key": "selector", "operator": "equal", "operand": "text.todo" }] },
+		{ "keys": ["alt+up"], "command": "new_pane" },
+		{ "keys": ["alt+down"], "command": "close_pane" },
+		{ "keys": ["alt+left"], "command": "focus_neighboring_group", "args": {"forward": false} },
+		{ "keys": ["alt+right"], "command": "focus_neighboring_group" }
+]

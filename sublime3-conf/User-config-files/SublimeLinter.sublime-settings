@@ -1,0 +1,9 @@
+// SublimeLinter Settings - User
+{
+ "paths": {
+        "linux": [],
+        "osx": [],
+        "windows": [
+        	"C:\\Users\\Allah\\AppData\\Roaming\\Python\\Python39\\Scripts"]
+    },
+}
